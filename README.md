@@ -2,7 +2,7 @@
 
 Prostate cancer predictor throught multiparametric magnetic resonance imaging (MRI).
 
-## Order for execution
+## Execution order
 
   1. __Export_dataset.ipynb__: Read files and manage their information in dataframes. Save and export the dataframe using the pickle library.
   2. __Manage_dataset.ipynb__: Load the pickle file with dataset information, then manage and clean the dataset (manage MRI's slices). Save and export the dataframe using the pickle library.
